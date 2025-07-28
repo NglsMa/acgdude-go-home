@@ -1,2 +1,2 @@
 # acgdude-go-home
-just for go back to acgdude
+just for go back to ACG DUDE
